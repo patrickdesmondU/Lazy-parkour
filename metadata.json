@@ -1,0 +1,6 @@
+{
+  "name": "Lazy Parkour",
+  "description": "A relaxed, physics-driven 2.5D parkour game featuring interactive lazy obstacles, exaggerated idle animations, funny emotes, and comically low-effort movement.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
